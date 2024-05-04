@@ -1,7 +1,5 @@
 {
-  // official schema ensures that your project file is valid
   "$schema": "https://inlang.com/schema/project-settings",
-  // the "source" language tag that is used in your project
   "sourceLanguageTag": "en",
   "languageTags": ["en", "de", "en-US"],
   "modules": [
